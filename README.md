@@ -1,2 +1,2 @@
-# lms_project
-We use python to create a library management system program for ip project
+# Library Management system(lms) Project
+Created a library management system program using python
